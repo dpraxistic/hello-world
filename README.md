@@ -1,5 +1,4 @@
 # hello-world
-noobsational
 
 not one but two is the glorious path,
 
